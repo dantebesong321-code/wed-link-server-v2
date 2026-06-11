@@ -26,6 +26,7 @@
     "noUncheckedIndexedAccess": true,
     "exactOptionalPropertyTypes": true,
     "allowImportingTsExtensions": true,
+    "emitDeclarationOnly": true,
     // Style Options
     // "noImplicitReturns": true,
     // "noImplicitOverride": true,
