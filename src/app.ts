@@ -1,8 +1,8 @@
 import express from "express";
 import cors from "cors";
 
-import vendorRoutes from "./routes/vendorRoutes";
-import categoryRoutes from "./routes/categoryRoutes";
+import vendorRoutes from "./routes/vendorRoutes.ts";
+import categoryRoutes from "./routes/categoryRoutes.ts";
 
 
 
